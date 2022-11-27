@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/IndianBoy42/tree-sitter-just",
+  "rev": "8af0aab79854aaf25b620a52c39485849922f766",
+  "date": "2021-11-02T20:53:27+08:00",
+  "path": "/nix/store/71hgy8sb8ljiqjlxj8hd0jdcipnh5dw7-tree-sitter-just",
+  "sha256": "15hl3dsr5kxjl1kl9md2gb9bwj0ni54d9k6jv1h74b3psf4qb0l5",
+  "fetchLFS": false,
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}

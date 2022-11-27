@@ -47,6 +47,7 @@
   tree-sitter-json5 = lib.importJSON ./tree-sitter-json5.json;
   tree-sitter-jsonnet = lib.importJSON ./tree-sitter-jsonnet.json;
   tree-sitter-julia = lib.importJSON ./tree-sitter-julia.json;
+  tree-sitter-just = lib.importJSON ./tree-sitter-just.json;
   tree-sitter-kotlin = lib.importJSON ./tree-sitter-kotlin.json;
   tree-sitter-latex = lib.importJSON ./tree-sitter-latex.json;
   tree-sitter-ledger = lib.importJSON ./tree-sitter-ledger.json;
@@ -70,6 +71,7 @@
   tree-sitter-ql-dbscheme = lib.importJSON ./tree-sitter-ql-dbscheme.json;
   tree-sitter-query = lib.importJSON ./tree-sitter-query.json;
   tree-sitter-r = lib.importJSON ./tree-sitter-r.json;
+  tree-sitter-racket = lib.importJSON ./tree-sitter-racket.json;
   tree-sitter-regex = lib.importJSON ./tree-sitter-regex.json;
   tree-sitter-rego = lib.importJSON ./tree-sitter-rego.json;
   tree-sitter-rst = lib.importJSON ./tree-sitter-rst.json;

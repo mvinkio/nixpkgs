@@ -342,6 +342,14 @@ let
       orga = "6cdh";
       repo = "tree-sitter-scheme";
     };
+    "tree-sitter-racket" = {
+      orga = "6cdh";
+      repo = "tree-sitter-racket";
+    };
+    "tree-sitter-just" = {
+      orga = "IndianBoy42";
+      repo = "tree-sitter-just";
+    };
     "tree-sitter-tiger" = {
       orga = "ambroisie";
       repo = "tree-sitter-tiger";
